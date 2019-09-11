@@ -28,4 +28,3 @@ else:
     print("FEL")
 
 print("total är:", total)
-
